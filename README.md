@@ -5,7 +5,7 @@ Interactive Excel sales analytics dashboard
 An interactive Excel dashboard that analyzes sales performance across regions, categories, 
 and customers, giving a CEO or Sales Manager the data needed to make informed decisions at a glance.
 
-![Dashboard Screenshot](dashboard 1.jpg)
+
 
 ## Objective
 
